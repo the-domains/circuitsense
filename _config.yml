@@ -1,0 +1,28 @@
+name: CircuitSense
+favicon: null
+layout_spectrum: 0.4882720310706645
+typography_spectrum: 0.6062600377481431
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7668073019012809
+  lightness: 0.5694730274844915
+  saturation: 0.5388479570392519
+  rhythmicContrast: 0.32680950267240405
+purpose: []
